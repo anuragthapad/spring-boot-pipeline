@@ -1,0 +1,3 @@
+INSERT INTO restaurant_odf(restaurant_name,restaurant_type,opening_time,closing_time,established_date,rating,address,contact_number) values('Vrindavan','Marathi','08:30:00','22:30:00','2016-12-05','5','Sambalpur','8978568978');
+INSERT INTO restaurant_odf(restaurant_name,restaurant_type,opening_time,closing_time,established_date,rating,address,contact_number) values('Dosa Plaza','Fast food','07:00:00','20:00:00','2006-01-11','3','Fakirpur','9898565620');
+INSERT INTO restaurant_odf(restaurant_name,restaurant_type,opening_time,closing_time,established_date,rating,address,contact_number) values('Hide Away','Susi','09:30:00','23:30:00','1989-01-09','6','Charampa','9698901250');
